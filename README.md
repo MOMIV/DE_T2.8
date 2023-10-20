@@ -39,5 +39,14 @@
 
 Решение:
 
+1,2
+
+![Image alt](https://github.com/MOMIV/DE_T2.8/raw/main/pic/1_2.png)
+
+3.
+
+![Image alt](https://github.com/MOMIV/DE_T2.8/raw/main/pic/3.png)
+
+
 
  
