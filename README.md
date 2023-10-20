@@ -41,7 +41,9 @@
 
 1,2
 
-![Image alt](https://github.com/MOMIV/DE_T2.8/raw/main/pic/1_2.png)
+![Image alt](https://github.com/MOMIV/DE_T2.8/raw/main/pic/1.png)
+
+![Image alt](https://github.com/MOMIV/DE_T2.8/raw/main/pic/2.png)
 
 3.
 
